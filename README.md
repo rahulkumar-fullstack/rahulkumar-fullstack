@@ -27,7 +27,7 @@
 ---
 
 ## 🔗 Links  
-- **Portfolio:** [https://gupta-rahulkumar.web.app](https://gupta-rahulkumar.web.app/)
+- **Portfolio:** [https://gupta-rahulkumar.web.app](https://rahulkumar-fullstack.web.app/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahulkumar-fullstack)
 
 
