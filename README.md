@@ -55,7 +55,7 @@ A comprehensive **full-stack solution** for diverse problem statements.
 
 ## 👨‍💻 **Portfolio**  
 
-🌐 **Website**(In development): [https://rahulkumar-fullstack.web.app](https://rahulkumar-fullstack.web.app)  
+🌐 **Website**: [https://rahulkumar-fullstack.web.app](https://rahulkumar-fullstack.web.app)  
 
 ---
 
