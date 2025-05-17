@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rahul Kumar
 
-💼 Trainee Engineer – IT | *Present*
+💼 Trainee Engineer – IT | *Present*   
 🎓 B.Sc. in Computer Science – University of Mumbai  
 🎓 MCA (Pursuing) – IGNOU  
 
@@ -14,6 +14,6 @@
 
 ---
 
-## 📫 Also uses LinkedIn | Gmail
+## 📫 Also uses LinkedIn, Gmail
 [LinkedIn](https://www.linkedin.com/in/rahulkumar-fullstack) • iamrahulkumar052@gmail.com
 
